@@ -40,10 +40,10 @@ public class MyServlet3 extends HttpServlet {
 		// 저장불가 / 저장 성공
 //		response.setContentType("text/html; charset=utf-8");
 //		PrintWriter out = response.getWriter();
-		
-		
+//		
+//		
 //		boolean result = false;
-//		boolean result = true;
+////		boolean result = true;
 //		
 //		if(result) {
 //			//성공에 대한 응답
