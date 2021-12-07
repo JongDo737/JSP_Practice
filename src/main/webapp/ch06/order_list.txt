@@ -1,0 +1,11 @@
+학습목표
+
+JSP Page 지시자 include 이해하기
+
+<@include file="로컬URI" %>
+
+1. top.jsp
+
+2. include.jsp
+
+3. bottom.jsp

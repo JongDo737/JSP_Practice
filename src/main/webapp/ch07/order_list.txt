@@ -1,0 +1,19 @@
+학습목표
+
+JSP의 액션태그 이해하기
+
+1. include 액션태그 <jsp:include>
+- 다른 페이지의 실행 결과를 현재 페이지에 포함 시킬때 사용
+
+2. forward 액션 태그 <jsp:forword>
+
+3. useBean 액션 태그 <jsp:useBean
+
+4. setProperty 액션 태그 < jsp:setProperty>
+
+
+top.jsp
+bottom.jsp
+center.jsp
+left.jsp
+main.jsp
