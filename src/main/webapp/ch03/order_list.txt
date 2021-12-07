@@ -1,0 +1,10 @@
+내부객체 이해 2
+1. join.jsp
+
+2. join_proc.jsp
+
+웹 어플리케이션에서 일반적인 로직 처리방식
+
+회원가입 시 --> 성공 --> join_proc.jsp
+
+	       		    실패 --> history.go(-1);

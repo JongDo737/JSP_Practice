@@ -1,0 +1,12 @@
+학습 목표
+
+내장 객체의 이해 3
+
+기본적인 로그인 처리 방식( 프로그램 흐름)
+
+로그인 요청 ---> 서버에서 검사 --->  메인페이지 이동
+										--> history.go(-1)
+										
+1. request_login.jsp
+2. response_login.jsp
+3. main.jsp

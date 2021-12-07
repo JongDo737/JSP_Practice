@@ -1,0 +1,9 @@
+Jsp 내부객체(내장객체) 에대한 개념
+
+response 객체의 범위
+
+1. login.jsp
+
+2. login_proc.jsp
+
+3. login_forword.jsp
