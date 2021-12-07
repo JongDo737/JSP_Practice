@@ -1,0 +1,13 @@
+학습목표
+
+내장객체 이해 4
+
+session 개념
+
+out 내장객체 확인
+
+1. session_test.jsp
+
+2. session_name.jsp
+
+3. out_test.jsp

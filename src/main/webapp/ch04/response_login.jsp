@@ -24,13 +24,13 @@
 			// 내장 객체인 response 이용
 			//response.sendRedirect("main.jsp");
 			//main 에서 id 값을 받을려면 쿼리스트림방식으로 보내준다.
-			response.sendRedirect("main.jsp?id="+id);
+			//response.sendRedirect("main.jsp?id="+id);
 		}else{
 		
 		%>
 		<script type="text/javascript">
-			alert("아이디와 패스워드가 일치하지 않습니다.");
-			history.go(-1);
+			//alert("아이디와 패스워드가 일치하지 않습니다.");
+			//history.go(-1);
 		</script>
 	<%
 		
