@@ -62,11 +62,11 @@
 
 			<tr height="50">
 				<td width="150" align="center">당신의 연령은</td>
-				<td width="350" align="center"><input type="radio" name="age"
-					value="10">10대&nbsp; <input type="radio" name="age"
-					value="20">20대&nbsp; <input type="radio" name="age"
-					value="30">30대&nbsp; <input type="radio" name="age"
-					value="40">40대&nbsp;</td>
+				<td width="350" align="center">
+				<input type="radio" name="age" value="10">10대&nbsp; 
+					<input type="radio" name="age" value="20">20대&nbsp; 
+					<input type="radio" name="age" value="30">30대&nbsp; 
+					<input type="radio" name="age" value="40">40대&nbsp;</td>
 			</tr>
 
 			<tr height="50">

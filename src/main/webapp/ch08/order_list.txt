@@ -1,0 +1,15 @@
+
+학습목표
+
+JSP 페이지 액션태그 이해하기
+
+사용모습 
+<jsp:forward page="로컬 uri">
+
+1. forwardTag1.html
+
+2. forwardTag1_1.jsp
+
+3. forwardTag1_2.jsp
+
+

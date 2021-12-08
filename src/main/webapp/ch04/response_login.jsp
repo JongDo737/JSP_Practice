@@ -11,6 +11,7 @@
 	<%
 		request.setCharacterEncoding("utf-8");
 		
+		
 		//사용자로부터 넘겨온 데이터 받기
 		String id = request.getParameter("id");
 		String pass = request.getParameter("pass");
@@ -25,6 +26,7 @@
 			//response.sendRedirect("main.jsp");
 			//main 에서 id 값을 받을려면 쿼리스트림방식으로 보내준다.
 			//response.sendRedirect("main.jsp?id="+id);
+			response.sendRedirect("main.jsp?id="+id);
 		}else{
 		
 		%>
